@@ -6,3 +6,6 @@ from garden import Garden
 g = Garden()
 g.add(Tomate())
 p = Pickle()
+p.grow(8)
+g.add(p)
+print(g.seed)
