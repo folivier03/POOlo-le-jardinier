@@ -1,4 +1,4 @@
-from vegetable import *
+from vegetable import Vegetable
 
 
 class Potato(Vegetable):
